@@ -1,0 +1,14 @@
+* {
+    background-color: black;
+    overflow: hidden;
+    margin-block-start: 0.6rem;
+}
+
+.clock {
+    color: white;
+    font-family: 'Dosis', sans-serif;
+    font-size: 38rem;
+    padding-left: 70px;
+    padding-top: 110px;
+    user-select: none;
+}
